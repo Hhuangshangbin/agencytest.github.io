@@ -10,11 +10,11 @@
 # English (default)
 # -----------------
 en: &DEFAULT_EN
-  header:
+  header: Institute of Intelligent Medicine, Fujian Medical University
     title: Welcome to our Studio!
     text: It's Nice To Meet You
     button: Tell Me More
-    buttonlink: "#services"
+    buttonlink: "Learn us more!"
 
   services:
     title: "Services"
